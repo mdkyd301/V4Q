@@ -1,0 +1,3 @@
+Version: 0.3
+My name is: Marcus Du Fresne
+I Like Git! True
